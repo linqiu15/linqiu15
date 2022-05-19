@@ -9,6 +9,8 @@ I am Lin Qiu, a graduate student from [IHEP](http://english.ihep.cas.cn/) in Bei
 
 ![Julia](https://img.shields.io/badge/-Julia-black?style=flat-square&logo=Julia)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![LaTex](https://img.shields.io/badge/-LaTex-black?style=flat-square&logo=LaTex)
+![Wolframe](https://img.shields.io/badge/-Wolframe-c14438?style=flat-square&logo=Wolfram&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
