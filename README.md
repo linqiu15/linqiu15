@@ -9,6 +9,11 @@ I am Lin Qiu, a graduate student from [IHEP](http://english.ihep.cas.cn/) in Bei
 
 [![My Skills](https://skillicons.dev/icons?i=julia,py,latex,cpp,emacs,git,github,linux,vim)](https://skillicons.dev)
 
+## ⚡ Leetcode
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=TravellingLight6" width="400"/>
+</a>
+
 ## ⚡ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [LaTex setting in VS code](https://linqiu15.github.io//software/vscode-latex/)
