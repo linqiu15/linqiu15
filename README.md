@@ -3,7 +3,7 @@
 I am Lin Qiu, a graduate student from [IHEP](http://english.ihep.cas.cn/) in Beijing, China. I major in Theoretical Physics(Particle Physics) and interested in Programming also. Feel free to visit or contact with me:
 
 
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:qiulin@ihep.ac.cn)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qiulin@ihep.ac.cn)](mailto:qiulin@ihep.ac.cn)
 
 ## ⚡ Technologies
 
