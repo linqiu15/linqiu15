@@ -16,6 +16,7 @@ I am Lin Qiu, a graduate student from [IHEP](http://english.ihep.cas.cn/) in Bei
 
 ## ⚡ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tools For Presentation](https://linqiu15.github.io//software/tools-for-presentation/)
 - [LaTex setting in VS code](https://linqiu15.github.io//software/vscode-latex/)
 <!-- BLOG-POST-LIST:END -->
 
