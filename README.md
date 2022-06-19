@@ -16,10 +16,10 @@ I am Lin Qiu, a graduate student from [IHEP](http://english.ihep.cas.cn/) in Bei
 
 ## ⚡ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting GPU Programming and Using CUDA](https://linqiu15.github.io//software/starting-gpu-and-using-cuda/)
 - [Using WSLG on Win11](https://linqiu15.github.io//software/Using-wslg-on-win11/)
 - [Using Mu4e in Emacs](https://linqiu15.github.io//emacs/use-mu4e-in-emacs/)
 - [Using Jupyter Lab](https://linqiu15.github.io//software/Using-Jupyter-Lab/)
-- [Tools For Presentation](https://linqiu15.github.io//software/tools-for-presentation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Overview 
