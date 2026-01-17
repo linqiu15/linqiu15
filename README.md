@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Lin Qiu, a graduate student from [IHEP](http://english.ihep.cas.cn/) in Beijing, China. I major in Theoretical Physics(Particle Physics) and interested in Programming also. Feel free to visit or contact with me:
+I am Lin Qiu, a postdoc in ODU&Jefferson Lab in Newport News, VA, USA. I major in Theoretical Physics(Particle Physics) and interested in Programming also. Feel free to visit or contact with me:
 
 
 [![Gmail Badge](https://img.shields.io/badge/-qiulin@ihep.ac.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qiulin@ihep.ac.cn)](mailto:qiulin@ihep.ac.cn)
